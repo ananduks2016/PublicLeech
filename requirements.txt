@@ -1,8 +1,8 @@
 aiohttp
-aria2c
+git+git://github.com/ananduks2016/aria2.git
 hachoir
 Pillow
 https://github.com/pyrogram/pyrogram/archive/asyncio.zip
 tgcrypto
 youtube-dl
-git+git://github.com
+
