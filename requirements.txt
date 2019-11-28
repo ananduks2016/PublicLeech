@@ -1,5 +1,5 @@
 aiohttp
-git+git://github.com/ananduks2016/aria2.git
+aria2p
 hachoir
 Pillow
 https://github.com/pyrogram/pyrogram/archive/asyncio.zip
